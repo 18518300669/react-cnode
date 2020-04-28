@@ -18,7 +18,7 @@ import { message } from 'antd';
             <header className="header">
                 <div className="header-box">
                     <Link to="/" className="logo user-select-none">
-                        <img src="http://o4j806krb.qnssl.com/public/images/cnodejs_light.svg" alt="logo" />
+                        <img src="http://static2.cnodejs.org/public/images/cnodejs_light.svg" alt="logo" />
                     </Link>
                     <nav className="nav">
                         <Link to="/">首页</Link>
